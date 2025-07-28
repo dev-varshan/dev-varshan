@@ -29,9 +29,11 @@ I aim to **build meaningful tech** — from making student lives easier to prote
 - Linux Infrastructure & CLI  
 - Vulnerability Assessment & Penetration Testing (VAPT)  
 - AI Automation & Prompt Engineering  
-- Web Development with HTML, CSS, JS, React, Firebase  
+- Web Development   
 - Chrome Extension Development  
-- Cloud Infrastructure (Internship Experience)
+- Rapid Prototyping
+- Linux System Administration
+- Full Stack Development
 
 ---
 
