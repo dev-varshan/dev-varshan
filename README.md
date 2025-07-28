@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-top: -20px;">
-  <strong>B.Tech Cyber Security Student | Tech Explorer | AI & Web Dev Enthusiast</strong>
+  <strong> Cyber Security Student | Tech Explorer | AI & Web Dev Enthusiast</strong>
 </p>
 
 
