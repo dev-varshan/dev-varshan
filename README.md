@@ -64,7 +64,7 @@ A smart web platform helping students discover competitions, events, and learnin
 - AI-powered content personalization  
 - Solves the problem of poor event visibility in colleges  
 
-### [THINKPHISH – Chrome Extension](https://chromewebstore.google.com/detail/thinkphish/nlfbdhkaknalaaigcjbdiimpajehjhaj)
+### [THINKPHISH – Chrome Extension(Under Maintenance)](https://chromewebstore.google.com/detail/thinkphish/nlfbdhkaknalaaigcjbdiimpajehjhaj)
 An AI-powered extension to detect phishing emails in real time.
 
 - SVM model trained on 1 lakh+ emails  
