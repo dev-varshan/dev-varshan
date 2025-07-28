@@ -57,21 +57,21 @@ I aim to **build meaningful tech** — from making student lives easier to prote
 
 ## Notable Projects
 
-### EVENT HORIZON – Web Application
+### [EVENT HORIZON – Web Application](https://www.eventthorizon.in/)
 A smart web platform helping students discover competitions, events, and learning opportunities.
 
 - Clean, responsive UI with filters  
 - AI-powered content personalization  
 - Solves the problem of poor event visibility in colleges  
 
-### THINKPHISH – Chrome Extension
+### [THINKPHISH – Chrome Extension](https://chromewebstore.google.com/detail/thinkphish/nlfbdhkaknalaaigcjbdiimpajehjhaj)
 An AI-powered extension to detect phishing emails in real time.
 
 - SVM model trained on 1 lakh+ emails  
 - Scans links, headers, spoofing, and redirections  
 - Lightweight, accurate, and user-friendly  
 
-### HACKALERT – Cybersecurity Hub
+### [HACKALERT – Cybersecurity Hub](https://www.thehackalert.in/)
 An informative cybersecurity website.
 
 - Publishes real-time exploits, zero-days, breaches  
