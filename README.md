@@ -49,7 +49,6 @@ I aim to **build meaningful tech** — from making student lives easier to prote
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-111111?style=flat&logo=visualstudiocode&logoColor=blue" />
-  <img src="https://img.shields.io/badge/n8n-111111?style=flat&logo=n8n&logoColor=orange" />
 </p>
 
 ---
@@ -95,9 +94,9 @@ An informative cybersecurity website.
 ## Contact
 
 - **Email**: devvvarshan@gmail.com  
-- **GitHub Username**: dev-varshan
+- **GitHub**: @dev-varshan
 
 ---
 
 > “Efficiency isn’t just about writing lines of code — it’s about making each line meaningful.”  
-> — *Manoj Varshan*
+
