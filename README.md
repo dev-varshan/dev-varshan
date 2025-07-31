@@ -30,10 +30,10 @@ I aim to **build meaningful tech** — from making student lives easier to prote
 - Vulnerability Assessment & Penetration Testing (VAPT)  
 - AI Automation & Prompt Engineering  
 - Web Development   
-- Chrome Extension Development  
+- Browser Extension Development  
 - Rapid Prototyping
 - Linux System Administration
-- Full Stack Development
+- AI-Powered Full-Stack Development
 
 ---
 
