@@ -11,7 +11,7 @@
 
 ## About Me
 
-I’m Manoj Varshan, a third-year B.Tech Cyber Security student who strongly believes that building impactful solutions doesn’t always require coding — with the right tools, automation, and ideas, anything is possible.  That’s where I excel — blending smart tools with creative thinking to turn ideas into reality.
+I'm Manoj Varshan, a third-year B.Tech Cyber Security student who strongly believes that building impactful solutions doesn't always require coding — with the right tools, automation, and ideas, anything is possible.  That's where I excel — blending smart tools with creative thinking to turn ideas into reality.
 
 I'm:
 -  **Broad-minded** – Open to working across any domain or technology.
@@ -64,6 +64,14 @@ A smart web platform helping students discover competitions, events, and learnin
 - AI-powered content personalization  
 - Solves the problem of poor event visibility in colleges  
 
+### [CAMPUS FIND – Web Application](https://campus-find.web.app/)
+A smart cloud-based platform helping students instantly find and recover lost items on campus.
+
+- Intuitive, responsive interface for posting and searching lost & found items  
+- Automatic matching between lost and found items for instant pairing  
+- Real-time notifications alert users immediately when a match is found  
+- Streamlines the traditional lost-and-found process, reducing delays and frustration  
+
 ### [THINKPHISH – Chrome Extension(Under Maintenance)](https://chromewebstore.google.com/detail/thinkphish/nlfbdhkaknalaaigcjbdiimpajehjhaj)
 An AI-powered extension to detect phishing emails in real time.
 
@@ -76,15 +84,7 @@ An informative cybersecurity website.
 
 - Publishes real-time exploits, zero-days, breaches  
 - Includes mythbusters, quizzes, and awareness content  
-- Designed to educate students and tech enthusiasts 
-
-## [CAMPUS FIND – Cloud Based Web Application](https://thecampusfind.netlify.app)
-A smart cloud-based platform helping students instantly find and recover lost items on campus.
-
-- Intuitive, responsive interface for posting and searching lost & found items
-- Automatic matching between lost and found items for instant pairing
-- Real-time notifications alert users immediately when a match is found
-- Streamlines the traditional lost-and-found process, reducing delays and frustration
+- Designed to educate students and tech enthusiasts  
 
 ---
 
@@ -108,5 +108,4 @@ A smart cloud-based platform helping students instantly find and recover lost it
 
 ---
 
-> “Efficiency isn’t just about writing lines of code — it’s about making each line meaningful.”  
-
+> "Efficiency isn't just about writing lines of code — it's about making each line meaningful."
