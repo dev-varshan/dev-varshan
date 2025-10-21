@@ -64,7 +64,7 @@ A smart web platform helping students discover competitions, events, and learnin
 - AI-powered content personalization  
 - Solves the problem of poor event visibility in colleges  
 
-### [CAMPUS FIND – Web Application](https://campus-find.web.app/)
+### [CAMPUS FIND – Web Application](https://thecampusfind.netlify.app)
 A smart cloud-based platform helping students instantly find and recover lost items on campus.
 
 - Intuitive, responsive interface for posting and searching lost & found items  
