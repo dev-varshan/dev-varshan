@@ -76,7 +76,15 @@ An informative cybersecurity website.
 
 - Publishes real-time exploits, zero-days, breaches  
 - Includes mythbusters, quizzes, and awareness content  
-- Designed to educate students and tech enthusiasts  
+- Designed to educate students and tech enthusiasts 
+
+## [CAMPUS FIND – Cloud Based Web Application](https://thecampusfind.netlify.app)
+A smart cloud-based platform helping students instantly find and recover lost items on campus.
+
+- Intuitive, responsive interface for posting and searching lost & found items
+- Automatic matching between lost and found items for instant pairing
+- Real-time notifications alert users immediately when a match is found
+- Streamlines the traditional lost-and-found process, reducing delays and frustration
 
 ---
 
